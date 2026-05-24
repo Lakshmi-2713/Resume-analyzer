@@ -145,3 +145,6 @@ Vercel is optimized for blazing-fast React static sites.
 ```
 
 Enjoy grading and optimizing your resume with AI! 🚀
+
+demo video:"C:\Users\DELL\Videos\Screen Recordings\Screen Recording 2026-05-24 122347.mp4"
+
