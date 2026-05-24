@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d2cb07dc-a3c0-4ad5-bf00-81bfe2ba2938
+
 # ResumeAI - Premium AI Resume Analyzer & ATS Optimizer
 
 ResumeAI is a beautiful, modern, full-stack web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). Using advanced **Retrieval-Augmented Generation (RAG)** and **Gemini 1.5 Flash**, the system parses PDF resumes, compares them against target job descriptions, evaluates ATS compatibility, identifies critical skill gaps, and suggests actionable bullet re-writes. Users can also chat in real-time with an AI Career Coach trained directly on their specific resume content!
