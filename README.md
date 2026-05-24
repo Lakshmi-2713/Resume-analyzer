@@ -148,3 +148,10 @@ Enjoy grading and optimizing your resume with AI! 🚀
 
 
 
+demo video: https://github.com/user-attachments/assets/a0947cff-be0a-4937-8f37-77f455cea52c
+
+
+
+
+
+
